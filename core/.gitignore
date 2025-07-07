@@ -1,0 +1,9 @@
+# Ignore secrets and temp files
+secrets/
+*.log
+*.tmp
+.env
+__pycache__/
+node_modules/
+.DS_Store
+
